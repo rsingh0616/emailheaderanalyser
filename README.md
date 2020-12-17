@@ -1,6 +1,6 @@
 # emailheaderanalyser
 
-An analyser to allow users to read crucial fields from email headers and analyse them to find geolocation data and spam status, along with data visualization using matplotlib and seaborn
+This project was a part of the OutInTech 2020 Spring cohort. I created an analyser to allow users to read crucial fields from email headers and analyse them to find geolocation data and spam status, along with data visualization of key fields such as email addresses and spam status using matplotlib and seaborn
 
 # Installation
 
@@ -19,3 +19,4 @@ An analyser to allow users to read crucial fields from email headers and analyse
 - matplotlib
 - numpy
 - seaborn
+
